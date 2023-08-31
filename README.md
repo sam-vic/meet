@@ -1,4 +1,8 @@
 UrbanMigration: A Social App
+SUMMARY
+- Frontend: Written with JavaScript/React; hosted on GitHub Pages.
+- Backend (Server Logic): Written with Node/Express as Lambda functions (FaaS); hosted on AWS (requests come from frontend to Lambda function to data).
+- Backend (Database): Google Calendar API.
 
 Objective 
 To build a serverless, progressive web application (PWA) with React using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.
