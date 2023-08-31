@@ -19,20 +19,21 @@ The 5 Ws
 
 Your Project Requirements
  Key Features: 
-● Filter Events by City. 
-● Show/Hide Event Details. 
-● Specify Number of Events. 
-● Use the App When Offline. 
-● Add an App Shortcut to the Home Screen. 
-● Display Charts Visualizing Event Details. 
+ 
+1. Filter Events by City.
+2. Show/Hide Event Details.
+3. Specify Number of Events.
+4. Use the App When Offline.
+5. Add an App Shortcut to the Home Screen.
+6. Display Charts Visualizing Event Details.
 
 User Stories: 
-● As a user, I would like to be able to filter events by city so that I can see the list of latest events that take place in that city. 
-● As a user, I would like to be able to adjust event details. 
-● As a user, I would like to control the number of events in view on the list. 
-● As a user, I would like to be able to use the app when offline using previously cached events. 
-● As a user, I would like an app shortcut to increase accessibility. 
-● As a user, I would like to be able to see a chart showing the upcoming events in each city so that I know what events are organized in which city.
+1. As a user, I would like to be able to filter events by city so that I can see the list of latest events that take place in that city. 
+2. As a user, I would like to be able to adjust event details. 
+3. As a user, I would like to control the number of events in view on the list. 
+4. As a user, I would like to be able to use the app when offline using previously cached events. 
+5. As a user, I would like an app shortcut to increase accessibility. 
+6. As a user, I would like to be able to see a chart showing the upcoming events in each city so that I know what events are organized in which city.
 
 Technical Requirements: 
 ● React application. 
