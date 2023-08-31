@@ -36,18 +36,18 @@ User Stories:
 6. As a user, I would like to be able to see a chart showing the upcoming events in each city so that I know what events are organized in which city.
 
 Technical Requirements: 
-● React application. 
-● Built using the TDD technique. 
-● Use the Google Calendar API and OAuth2 authentication flow. 
-● Serverless functions calls to AWS lambda for the authorization server. 
-● Hosted in a Git repository on GitHub. 
-● Compatibility with  Chrome, Firefox, Safari, Edge, and Opera, as well as on IE11. 
-● Adaptive design (from 1920px to 320px) 
-● Pass Lighthouse’s PWA checklist. 
-● Service worker ensures offline and low wifi 
-● Compatible with desktop and mobile
-● Deployed on GitHub Pages. 
-● Alert system using an OOP approach to show information to the user. 
-● Data visualization capability. 
-● Approximately coverage rate >= 90%. 
-● Monitored through online tools
+- React application. 
+- Built using the TDD technique. 
+- Use the Google Calendar API and OAuth2 authentication flow. 
+- Serverless functions calls to AWS lambda for the authorization server. 
+- Hosted in a Git repository on GitHub. 
+- Compatibility with  Chrome, Firefox, Safari, Edge, and Opera, as well as on IE11. 
+- Adaptive design (from 1920px to 320px) 
+- Pass Lighthouse’s PWA checklist. 
+- Service worker ensures offline and low wifi 
+- Compatible with desktop and mobile
+- Deployed on GitHub Pages. 
+- Alert system using an OOP approach to show information to the user. 
+- Data visualization capability. 
+- Approximately coverage rate >= 90%. 
+- Monitored through online tools
